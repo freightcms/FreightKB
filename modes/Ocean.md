@@ -4,6 +4,8 @@
 
 **From ChatGPT**
 
+https://chat.openai.com/share/3733ccc8-4814-46e6-aa98-ad48ee24e2a3
+
 An ocean shipment typically requires several attributes to facilitate the transportation of goods by sea. Here are some essential attributes associated with an ocean shipment:
 
 1. Shipping Container: Goods transported by ocean usually need to be properly packed and secured in standardized shipping containers. These containers come in various sizes and types, such as 20-foot or 40-foot containers, depending on the volume and nature of the cargo.

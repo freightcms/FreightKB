@@ -2,7 +2,9 @@
 
 ## Parcel
 
-**From ChatGPT**
+**From ChatGPT** 
+
+https://chat.openai.com/share/fe195bd5-af05-4f69-97b7-9bcee28f7c61
 
 A parcel shipment typically has several attributes that help identify and track the package throughout the delivery process. Here are some common attributes associated with parcel shipments:
 

@@ -2,6 +2,8 @@
 
 ## Full Truckload
 
+https://chat.openai.com/share/de2c26f3-2184-412b-9b0d-25014096d23e
+
 A full truckload, often abbreviated as FTL, refers to a mode of transportation where a shipment occupies the entire capacity of a truck trailer. The attributes or requirements of a full truckload can vary depending on the specific industry, company, and region. However, here are some common attributes that are typically associated with a full truckload:
 
 1. Quantity: A full truckload typically involves a shipment that is large enough to utilize the entire available space within a truck trailer. The shipment should be substantial enough to justify the cost and utilization of a dedicated truck.

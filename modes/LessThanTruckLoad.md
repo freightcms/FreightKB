@@ -4,6 +4,8 @@
 
 **From ChatGPT**
 
+https://chat.openai.com/share/80e29b18-e3e8-4434-a34e-77ce56c789b4
+
 A less than truckload (LTL) shipment refers to a freight shipment that does not require the use of an entire truck trailer. LTL carriers consolidate multiple smaller shipments from different shippers into a single trailer, optimizing space and reducing costs. Here are some key attributes that a less than truckload shipment typically needs to have:
 
 1. Smaller Size: LTL shipments are generally smaller in size compared to full truckload (FTL) shipments. They usually occupy a fraction of the available trailer space.

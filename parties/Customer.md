@@ -1,10 +1,12 @@
-# Parties
-
-## Customers
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/675c5242-2428-4282-aa9a-49fe050b2156](https://chat.openai.com/share/675c5242-2428-4282-aa9a-49fe050b2156)
+---
+title: Parties
+subtitle: Customers
+chatgpt_link: https://chat.openai.com/share/675c5242-2428-4282-aa9a-49fe050b2156
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/customers
+---
 
 A freight customer refers to an individual, business, or organization that utilizes freight services to transport goods from one location to another. Freight customers are typically companies involved in manufacturing, distribution, or retail, as well as individuals who require shipping services for personal goods or belongings.
 

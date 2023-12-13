@@ -1,10 +1,12 @@
-# Parties
-
-## Consignee
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/d2c54cfc-fea5-48c1-8c52-d6449e133b21](https://chat.openai.com/share/d2c54cfc-fea5-48c1-8c52-d6449e133b21)
+---
+title: Parties
+subtitle: Consignee
+chatgpt_link: https://chat.openai.com/share/d2c54cfc-fea5-48c1-8c52-d6449e133b21
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/consignee
+---
 
 In the context of freight and shipping, a consignee refers to the person, company, or entity that is designated to receive a shipment or cargo. The consignee is typically specified by the shipper or the sender of the goods at the time of arranging transportation. The consignee can be an individual, a business, a warehouse, a distribution center, or any other location where the shipment is intended to be delivered.
 

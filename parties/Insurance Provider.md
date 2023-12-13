@@ -1,10 +1,12 @@
-# Parties
-
-## Insurance Provider
-
-**From ChatGPt**
-
-[https://chat.openai.com/share/a88bb9e8-8ba3-4cd0-92fc-5bc7fc3724a9](https://chat.openai.com/share/a88bb9e8-8ba3-4cd0-92fc-5bc7fc3724a9)
+---
+title: Parties
+subtitle: Insurance Provider
+chatgpt_link: https://chat.openai.com/share/a88bb9e8-8ba3-4cd0-92fc-5bc7fc3724a9
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/insurance-provider
+---
 
 In the context of freight, an insurance provider refers to a company or entity that offers insurance coverage specifically for freight or cargo shipments. Freight insurance is designed to protect the value of goods being transported against various risks and perils that can occur during transit, such as theft, damage, loss, or other unforeseen circumstances.
 

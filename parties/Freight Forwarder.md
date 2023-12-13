@@ -1,10 +1,12 @@
-# Parties
-
-## Freight Forwarder
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/d3b64988-38a8-4ca1-b553-0b674235a0e1](https://chat.openai.com/share/d3b64988-38a8-4ca1-b553-0b674235a0e1)
+---
+title: Parties
+subtitle: Freight Forwarder
+chatgpt_link: https://chat.openai.com/share/d3b64988-38a8-4ca1-b553-0b674235a0e1
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/freight-forwarder
+---
 
 A freight forwarder is a company or an individual that arranges and coordinates the transportation of goods on behalf of individuals or businesses. They act as intermediaries between shippers (individuals or companies that need to transport goods) and various transportation services, such as shipping lines, airlines, trucking companies, and rail carriers.
 

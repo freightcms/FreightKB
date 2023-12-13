@@ -1,10 +1,12 @@
-# Parties
-
-## Freight Brokers
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/92b2b470-15ad-4628-9228-c6bcc634afb6](https://chat.openai.com/share/92b2b470-15ad-4628-9228-c6bcc634afb6)
+---
+title: Parties
+subtitle: Freight Broker
+chatgpt_link: https://chat.openai.com/share/92b2b470-15ad-4628-9228-c6bcc634afb6
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/brokers/freight
+---
 
 A freight broker is a person or company that acts as an intermediary between shippers (individuals or businesses that need to transport goods) and carriers (trucking companies, railroads, or other transportation providers). The role of a freight broker is to facilitate the movement of goods by arranging transportation services for shippers and connecting them with suitable carriers.
 

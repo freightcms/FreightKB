@@ -1,10 +1,12 @@
-# Parties
-
-## Shipper
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/10076032-578c-481d-a229-ead17aacff7d](https://chat.openai.com/share/10076032-578c-481d-a229-ead17aacff7d)
+---
+title: Parties
+subtitle: Shipper
+chatgpt_link: https://chat.openai.com/share/10076032-578c-481d-a229-ead17aacff7d
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/shipper
+---
 
 In the context of various industries, a "shipper" typically refers to a person or organization that is responsible for shipping or transporting goods from one location to another. The shipper is usually the entity that initiates the transportation process by arranging for the shipment of goods. This term is commonly used in logistics, supply chain management, and transportation industries.
 

@@ -1,10 +1,11 @@
-# Shipping Methods
-
-## Parcel
-
-**From ChatGPT**
-
-https://chat.openai.com/share/ffab6b90-3db7-4f41-9ab2-f92c0b36a283
+---
+title: Modes
+chatgpt_link: https://chat.openai.com/share/ffab6b90-3db7-4f41-9ab2-f92c0b36a283
+author: Christopher Schoeder
+date: 2023-12-13
+layout: article
+permalink: modes
+---
 
 Parcel shipping refers to the transportation of packages or parcels from one location to another. There are several methods and options available for parcel shipping, depending on factors such as distance, speed, cost, and the nature of the shipment. Here are some common parcel shipping methods:
 

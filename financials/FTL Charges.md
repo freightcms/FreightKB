@@ -1,10 +1,12 @@
-# Charges
-
-## FTL Charges
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d](https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d)
+---
+title: Financials
+subtitle: 'FTL Charges'
+chatgpt_link: https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/ftl-charges
+---
 
 FTL (Full Truckload) freight charges can vary based on several factors. Here are some common charges associated with FTL freight:
 

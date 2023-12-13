@@ -1,10 +1,12 @@
-# Terms
-
-## Line Items
-
-**From ChatGPT**
-
-https://chat.openai.com/share/a59c3f53-2fef-4c04-8f03-79441991cb32
+---
+title: Financials
+subtitle: 'Line Item Charges'
+chatgpt_link: https://chat.openai.com/share/a59c3f53-2fef-4c04-8f03-79441991cb32
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/line-item-charges
+---
 
 Freight line items refer to specific charges or costs associated with the transportation of goods or cargo. When shipping goods, especially in the context of commercial transactions, there are various expenses and fees involved beyond the actual transportation cost. These additional charges are typically itemized as freight line items. Here are some common examples:
 

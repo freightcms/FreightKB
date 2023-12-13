@@ -1,10 +1,12 @@
-# Charges
-
-## Air Freight Charges
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/fcdea0f6-7c23-4292-8a45-30e67257af7f](https://chat.openai.com/share/fcdea0f6-7c23-4292-8a45-30e67257af7f)
+---
+title: Financials
+subtitle: 'Air Charges'
+chatgpt_link: https://chat.openai.com/share/fcdea0f6-7c23-4292-8a45-30e67257af7f
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/air-charges
+---
 
 Air freight charges refer to the fees associated with shipping goods or cargo by air. These charges cover the cost of transporting the goods from one location to another using an aircraft. Air freight charges can vary based on several factors, including the weight and dimensions of the cargo, the distance traveled, the type of goods being shipped, the urgency of delivery, and any additional services required.
 

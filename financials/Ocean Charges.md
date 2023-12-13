@@ -1,10 +1,12 @@
-# Charges
-
-## Ocean Charges
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/8866819a-b03b-42f4-8a0d-650a5db093d9](https://chat.openai.com/share/8866819a-b03b-42f4-8a0d-650a5db093d9)
+---
+title: Financials
+subtitle: 'Ocean Charges'
+chatgpt_link: https://chat.openai.com/share/8866819a-b03b-42f4-8a0d-650a5db093d9
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/ocean-charges
+---
 
 Ocean freight charges refer to the costs associated with transporting goods by sea. When shipping goods internationally or across large bodies of water, ocean freight is a common and cost-effective mode of transportation. The charges associated with ocean freight can vary depending on several factors, including:
 

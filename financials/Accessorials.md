@@ -1,10 +1,12 @@
-# Terms
-
-## Accessorials
-
-**From ChatGPT**
-
-https://chat.openai.com/share/c0bcaa67-6245-429b-8e93-e0fc87cc8b52
+---
+title: Financials
+subtitle: 'Accessorial Charges'
+chatgpt_link: https://chat.openai.com/share/c0bcaa67-6245-429b-8e93-e0fc87cc8b52
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/accessorial-charges
+---
 
 Freight accessorials, also known as freight accessorial charges or fees, refer to additional services or charges associated with the transportation of freight beyond the basic transportation cost. These charges are incurred for extra services or special requirements that go beyond the standard pickup, transportation, and delivery of goods.
 

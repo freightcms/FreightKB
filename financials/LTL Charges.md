@@ -1,10 +1,12 @@
-# Financials
-
-## LTL Charges
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/91ab77cb-6ea3-4c45-b43c-a7b12b2c9015](https://chat.openai.com/share/91ab77cb-6ea3-4c45-b43c-a7b12b2c9015)
+---
+title: Financials
+subtitle: 'LTL Charges'
+chatgpt_link: https://chat.openai.com/share/91ab77cb-6ea3-4c45-b43c-a7b12b2c9015
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/ltl-charges
+---
 
 LTL (Less Than Truckload) freight charges can vary depending on several factors. Here are some common charges associated with LTL freight:
 

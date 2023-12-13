@@ -1,10 +1,12 @@
-# Charges
-
-## Parcel Charges
-
-**From ChatGPT**
-
-[https://chat.openai.com/?model=text-davinci-002-render-sha](https://chat.openai.com/?model=text-davinci-002-render-sha)
+---
+title: Financials
+subtitle: 'Parcel Charges'
+chatgpt_link: 'https://chat.openai.com/share/a0827d00-ec95-4158-b1bf-943c7bd047de'
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/parcel-charges
+---
 
 Parcel charges refer to the fees or costs associated with sending a package or parcel through a postal or courier service. These charges typically vary based on factors such as the weight, dimensions, destination, and additional services required for the parcel.
 

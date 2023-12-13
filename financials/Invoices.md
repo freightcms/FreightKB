@@ -1,10 +1,12 @@
-# Financials
-
-## Invoices
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/78a8fa3d-4715-4960-8fb7-0c5154357447](https://chat.openai.com/share/78a8fa3d-4715-4960-8fb7-0c5154357447)
+---
+title: Financials
+subtitle: 'Invoices'
+chatgpt_link: https://chat.openai.com/share/78a8fa3d-4715-4960-8fb7-0c5154357447
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: financials/invoices
+---
 
 A freight invoice is a document used in the transportation and logistics industry to provide a detailed breakdown of charges and fees associated with the shipment of goods or cargo. It serves as a billing statement issued by the carrier or freight forwarder to the shipper or consignee, outlining the financial aspects of the transportation service provided.
 

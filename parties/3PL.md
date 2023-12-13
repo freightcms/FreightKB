@@ -1,10 +1,12 @@
-# Terms
-
-## Third Party Logistics Provider (3PL)
-
-**From ChatGPT**
-
-https://chat.openai.com/share/f4ef1d19-2901-4059-be74-60e5df232738
+---
+title: Parties
+subtitle: Third Party Logistics (3PL)
+chatgpt_link: https://chat.openai.com/share/f4ef1d19-2901-4059-be74-60e5df232738
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/3pl
+---
 
 A Third Party Logistics Provider, often abbreviated as 3PL, refers to a company or service provider that offers outsourced logistics and supply chain management services to businesses. A 3PL acts as an intermediary between manufacturers, retailers, and customers, facilitating the movement and storage of goods from one point to another.
 

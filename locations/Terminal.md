@@ -1,10 +1,12 @@
-# Locations
-
-## Terminal
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/b433d3c8-9997-413e-9aeb-68b8f62e9c03](https://chat.openai.com/share/b433d3c8-9997-413e-9aeb-68b8f62e9c03)
+---
+title: Locations
+subtitle: Terminal
+chatgpt_link: https://chat.openai.com/share/b433d3c8-9997-413e-9aeb-68b8f62e9c03
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: locations/terminals
+---
 
 In freight logistics, a terminal refers to a specific location or facility where various activities related to the movement, storage, and transfer of cargo or freight take place. These terminals are essential components of the supply chain and play a crucial role in the transportation and distribution of goods.
 

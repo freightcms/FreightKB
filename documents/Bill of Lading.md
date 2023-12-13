@@ -1,10 +1,12 @@
-# Documents
-
-## Bill of Lading (BOL)
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/3623f961-f8b7-41a7-9cf2-82c7ebd871ea](https://chat.openai.com/share/3623f961-f8b7-41a7-9cf2-82c7ebd871ea)
+---
+title: Documents
+subtitle: Bill of Lading (BOL)
+chatgpt_link: https://chat.openai.com/share/3623f961-f8b7-41a7-9cf2-82c7ebd871ea
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: documents/financials/bol
+---
 
 A Bill of Lading (B/L) is a legal document issued by a carrier, such as a shipping line, trucking company, or freight forwarder. It serves as a receipt for the goods being shipped and also represents a contract of carriage between the shipper (consignor) and the carrier.
 

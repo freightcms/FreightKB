@@ -1,8 +1,12 @@
-# Suppliers
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/9cf9515e-fbf3-4681-91af-71efdf56ce73](https://chat.openai.com/share/9cf9515e-fbf3-4681-91af-71efdf56ce73)
+---
+title: Parties
+subtitle: Suppliers
+chatgpt_link: https://chat.openai.com/share/9cf9515e-fbf3-4681-91af-71efdf56ce73
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/suppliers
+---
 
 A freight supplier, also known as a freight provider or freight carrier, is a company or organization that offers transportation services for the movement of goods or cargo. These companies specialize in the logistics and management of shipping and transportation, helping businesses and individuals transport their goods from one location to another.
 

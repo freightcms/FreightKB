@@ -1,10 +1,12 @@
-# Tracking
-
-## Electronic Tracking Device (ELD)
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/9d943d5b-a83c-438e-b8aa-077676a2693d](https://chat.openai.com/share/9d943d5b-a83c-438e-b8aa-077676a2693d)
+---
+title: Tracking
+subtitle: Electronic Logging Device (ELD)
+chatgpt_link: https://chat.openai.com/share/9d943d5b-a83c-438e-b8aa-077676a2693d
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: tracking/eld
+---
 
 An ELD stands for Electronic Logging Device. It is a device that is used in the trucking and transportation industry to monitor and record a driver's Hours of Service (HOS) electronically. The ELD is connected to the vehicle's engine and captures data such as engine hours, vehicle movement, miles driven, and other relevant information.
 

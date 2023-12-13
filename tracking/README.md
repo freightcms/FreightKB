@@ -1,8 +1,11 @@
-# Tracking
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/96d9a3a8-02ff-48af-b84b-756121268bb6](https://chat.openai.com/share/96d9a3a8-02ff-48af-b84b-756121268bb6)
+---
+title: Tracking
+chatgpt_link: https://chat.openai.com/share/96d9a3a8-02ff-48af-b84b-756121268bb6
+author: Christopher Schoeder
+date: 2023-12-13
+layout: article
+permalink: tracking
+---
 
 Freight tracking, also known as shipment tracking or cargo tracking, refers to the process of monitoring and tracing the movement of goods or shipments from their point of origin to their final destination. It allows shippers, consignees, and other relevant parties to have real-time visibility and information about the status, location, and estimated time of arrival (ETA) of their freight.
 

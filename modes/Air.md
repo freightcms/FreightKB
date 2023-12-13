@@ -1,10 +1,12 @@
-# Modes
-
-## Air
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/be6d4aae-a129-4a6b-b7d8-55fb64cc074f](https://chat.openai.com/share/be6d4aae-a129-4a6b-b7d8-55fb64cc074f)
+---
+title: Modes
+subtitle: Air
+chatgpt_link: https://chat.openai.com/share/be6d4aae-a129-4a6b-b7d8-55fb64cc074f
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: modes/air
+---
 
 An ocean shipment typically requires several attributes to facilitate the transportation of goods by sea. Here are some essential attributes associated with an ocean shipment:
 

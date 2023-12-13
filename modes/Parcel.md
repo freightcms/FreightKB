@@ -1,10 +1,12 @@
-# Modes
-
-## Parcel
-
-**From ChatGPT** 
-
-[https://chat.openai.com/share/fe195bd5-af05-4f69-97b7-9bcee28f7c61](https://chat.openai.com/share/fe195bd5-af05-4f69-97b7-9bcee28f7c61)
+---
+title: Modes
+subtitle: Parcel
+chatgpt_link: https://chat.openai.com/share/fe195bd5-af05-4f69-97b7-9bcee28f7c61
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: modes/parcel
+---
 
 A parcel shipment typically has several attributes that help identify and track the package throughout the delivery process. Here are some common attributes associated with parcel shipments:
 

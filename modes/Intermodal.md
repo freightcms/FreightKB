@@ -1,10 +1,12 @@
-# Modes
-
-## Intermodal
-
-**From ChatGTP**
-
-[https://chat.openai.com/share/872836a8-f882-471f-a14b-f1f31b281af7](https://chat.openai.com/share/872836a8-f882-471f-a14b-f1f31b281af7)
+---
+title: Modes
+subtitle: Intermodal
+chatgpt_link: https://chat.openai.com/share/872836a8-f882-471f-a14b-f1f31b281af7
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: modes/intermodal
+---
 
 Intermodal shipment refers to the transportation of goods using multiple modes of transportation, such as rail, road, water, and air. Intermodal shipments offer several advantages, and there are several attributes associated with this mode of transportation. Here are some common attributes of intermodal shipments:
 

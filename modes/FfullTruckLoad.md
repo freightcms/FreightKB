@@ -1,8 +1,12 @@
-# Modes
-
-## Full Truckload
-
-[https://chat.openai.com/share/de2c26f3-2184-412b-9b0d-25014096d23e](https://chat.openai.com/share/de2c26f3-2184-412b-9b0d-25014096d23e)
+---
+title: Modes
+subtitle: Full Truckload
+chatgpt_link: https://chat.openai.com/share/de2c26f3-2184-412b-9b0d-25014096d23e
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: modes/ftl
+---
 
 A full truckload, often abbreviated as FTL, refers to a mode of transportation where a shipment occupies the entire capacity of a truck trailer. The attributes or requirements of a full truckload can vary depending on the specific industry, company, and region. However, here are some common attributes that are typically associated with a full truckload:
 

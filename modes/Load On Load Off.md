@@ -1,10 +1,12 @@
-# Modes
-
-## Load On, Load Off (LOLO)
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/5061c334-fbda-44a0-a184-b2a76798a3bb](https://chat.openai.com/share/5061c334-fbda-44a0-a184-b2a76798a3bb)
+---
+title: Modes
+subtitle: Load on Load off
+chatgpt_link: https://chat.openai.com/share/5061c334-fbda-44a0-a184-b2a76798a3bb
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: modes/lolo
+---
 
 "Load on, load off" freight refers to a specific type of cargo handling method commonly used in maritime shipping. It is also known as "lo-lo" or "lift-on/lift-off" freight.
 

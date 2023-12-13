@@ -1,10 +1,12 @@
-# Terms
-
-## MC Number
-
-**From ChatGPT**
-
-https://chat.openai.com/share/60f20280-ae30-4b76-b146-258196be8b68
+---
+title: Carriers
+subtitle: Motor Carrier Number (MC Number)
+chatgpt_link: https://chat.openai.com/share/60f20280-ae30-4b76-b146-258196be8b68
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: carriers/mc-number
+---
 
 A Freight MC Number, also known as an MC (Motor Carrier) Number, is a unique identifier assigned to for-hire motor carriers (trucking companies) by the Federal Motor Carrier Safety Administration (FMCSA) in the United States. The MC Number is used to track and monitor the operations of motor carriers engaged in interstate commerce.
 

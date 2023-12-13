@@ -1,8 +1,11 @@
-# EDI
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/5827f2e9-addf-4f44-a773-70a2c5af8daa](https://chat.openai.com/share/5827f2e9-addf-4f44-a773-70a2c5af8daa)
+---
+title: Electronic Data Interchange (EDI)
+chatgpt_link: https://chat.openai.com/share/5827f2e9-addf-4f44-a773-70a2c5af8daa
+author: Christopher Schoeder
+date: 2023-12-13
+layout: article
+permalink: edi
+---
 
 In the context of freight and logistics, EDI stands for Electronic Data Interchange. It refers to the electronic exchange of business documents and information between different parties involved in the freight industry, such as shippers, carriers, freight forwarders, and customs agencies.
 

@@ -1,6 +1,12 @@
-# Brokers
-
-[ChatGPT](https://chat.openai.com/share/5fd6cefe-81fd-42b9-a642-3ead19fed82a)
+---
+title: Parties
+subtitle: Brokers
+chatgpt_link: https://chat.openai.com/share/5fd6cefe-81fd-42b9-a642-3ead19fed82a
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/brokers
+---
 
 A broker in the freight logistics industry is an intermediary or third-party agent that facilitates the movement of goods from one location to another. Their primary role is to connect shippers with carriers, ensuring the efficient and cost-effective transportation of cargo. Brokers do not own the transportation equipment (trucks, ships, planes, etc.) but instead act as intermediaries, providing valuable services to both shippers and carriers. Their key responsibilities include:
 

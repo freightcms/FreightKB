@@ -1,10 +1,12 @@
-# Analytics
-
-## Carrier Score Cards
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/bf4136b4-3cd0-4720-8583-97144bfc9686](https://chat.openai.com/share/bf4136b4-3cd0-4720-8583-97144bfc9686)
+---
+title: Analytics
+subtitle: Carrier Score Cards
+chatgpt_link: https://chat.openai.com/share/bf4136b4-3cd0-4720-8583-97144bfc9686
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: analytics/carrier-score-cards
+---
 
 Carrier performance refers to the measurement and evaluation of the effectiveness and efficiency of a carrier or transportation service provider. A carrier, in this context, refers to a company or organization that transports goods, people, or information from one location to another.
 

@@ -4,7 +4,7 @@
 
 **From ChatGPT**
 
-https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d
+[https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d](https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d)
 
 FTL (Full Truckload) freight charges can vary based on several factors. Here are some common charges associated with FTL freight:
 

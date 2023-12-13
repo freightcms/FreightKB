@@ -1,3 +1,9 @@
+---
+layout: home
+title: 
+permalink: /
+---
+
 # FrieghtKB
 
 A knowledge base of all freight information from ChatGPT. None of the ideas or thoughts in any of this documention is my own but rather asked and copy/pasted from ChatGPT questions and responses. If any information is inaccurate please open an issue with a description of the incorrect information is/was.
@@ -6,7 +12,7 @@ A knowledge base of all freight information from ChatGPT. None of the ideas or t
 
 **From ChatGPT**
 
-https://chat.openai.com/share/5c21634c-dbd3-4e5a-95d1-3a4b2ebcbe87
+[https://chat.openai.com/share/5c21634c-dbd3-4e5a-95d1-3a4b2ebcbe87](https://chat.openai.com/share/5c21634c-dbd3-4e5a-95d1-3a4b2ebcbe87)
 
 Freight logistics, also known as freight management or freight transportation, refers to the process of planning, organizing, and controlling the movement of goods and materials from one location to another. It involves the coordination of various activities, such as transportation, warehousing, inventory management, packaging, and documentation, to ensure the efficient and timely delivery of goods.
 

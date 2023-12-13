@@ -1,8 +1,12 @@
-# Vendors
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/ef4fd204-c69a-4c4f-adf7-e245518a2f55](https://chat.openai.com/share/ef4fd204-c69a-4c4f-adf7-e245518a2f55)
+---
+title: Parties
+subtitle: Vendors
+chatgpt_link: https://chat.openai.com/share/ef4fd204-c69a-4c4f-adf7-e245518a2f55
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: parties/vendors
+---
 
 A freight vendor, also known as a freight carrier or freight service provider, is a company or organization that specializes in transporting goods or cargo from one location to another. Freight vendors offer various transportation services to businesses and individuals, facilitating the movement of goods across different regions or even internationally.
 

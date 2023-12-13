@@ -1,10 +1,12 @@
-# Packaging
-
-## Handling Units
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/ff9359e7-3fcf-41aa-82e0-2b48d7d44b82](https://chat.openai.com/share/ff9359e7-3fcf-41aa-82e0-2b48d7d44b82)
+---
+title: Packaging
+subtitle: Handling Units
+chatgpt_link: https://chat.openai.com/share/ff9359e7-3fcf-41aa-82e0-2b48d7d44b82
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: packaging/handling-units
+---
 
 A Freight Handling Unit (FHU) refers to a specific package or item that is used to transport goods in the freight industry. It is designed to facilitate the movement of cargo by various modes of transportation, such as ships, airplanes, trains, and trucks. An FHU can be a standardized shipping container, pallet, skid, crate, or any other similar structure used for consolidating and securing goods during transportation.
 

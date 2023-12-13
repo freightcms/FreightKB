@@ -1,8 +1,11 @@
-# Packaging
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/0ed13a58-79b7-4f2d-b1fb-fe8434ec217a](https://chat.openai.com/share/0ed13a58-79b7-4f2d-b1fb-fe8434ec217a)
+---
+title: Packaging
+chatgpt_link: 'https://chat.openai.com/share/0ed13a58-79b7-4f2d-b1fb-fe8434ec217a'
+author: Christopher Schoeder
+date: 2023-12-13
+layout: article
+permalink: packaging
+---
 
 Freight packaging refers to the process of preparing and securing goods or products for transportation via freight carriers such as trucks, ships, or airplanes. The goal of freight packaging is to ensure that the items being shipped arrive at their destination safely and in optimal condition.
 

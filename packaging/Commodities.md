@@ -1,10 +1,12 @@
-# Packaging
-
-## Commodities
-
-**From ChatGPT**
-
-[https://chat.openai.com/share/57140803-d03f-41bb-b310-2ca29d341421](https://chat.openai.com/share/57140803-d03f-41bb-b310-2ca29d341421)
+---
+title: Packaging
+subtitle: Commodities
+chatgpt_link: https://chat.openai.com/share/57140803-d03f-41bb-b310-2ca29d341421
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: packaging/commodities
+---
 
 A freight commodity refers to goods or products that are transported by various modes of transportation, such as ships, trucks, trains, or airplanes. These commodities are typically bulk or large quantities of items that are moved from one location to another for commercial purposes.
 

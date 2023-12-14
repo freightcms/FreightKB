@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/65808a05-a3ea-482e-982d-854c4f4293b1
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: carriers/iata
+permalink: /iata
 ---
 
 IATA stands for the International Air Transport Association. An IATA code, also known as an IATA location identifier or IATA airport code, is a three-letter code used to identify airports and other air transportation facilities around the world. These codes are assigned by IATA and are used for various purposes in the aviation industry, such as flight planning, ticketing, baggage handling, and general communication between airlines and airports.

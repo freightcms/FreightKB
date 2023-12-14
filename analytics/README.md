@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/6eb9630b-c25a-43a7-81df-97d1e2c4bd20
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: article
-permalink: analytics
+permalink: /
 ---
 
 Freight analytics refers to the application of advanced data analytics techniques and technologies to the field of freight transportation and logistics. It involves collecting, analyzing, and interpreting large volumes of data related to the movement of goods, supply chain operations, and various factors influencing freight logistics.

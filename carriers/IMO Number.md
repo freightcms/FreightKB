@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/07487b59-4d94-475f-a2b9-dc72faf361e9
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: carriers/imo
+permalink: /imo
 ---
 
 A Freight IMO (International Maritime Organization) number, also known as a container IMO number or shipping container number, is a unique identification code assigned to shipping containers. The IMO number helps in the identification and tracking of containers as they move across different ports and vessels worldwide.

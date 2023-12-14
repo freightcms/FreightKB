@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/118ac6e8-6bc7-4ec3-a58d-ef629c101d9f
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: parties/brokers/customs
+permalink: /customs
 ---
 
 A customs broker is a licensed professional who specializes in facilitating the import and export of goods on behalf of individuals or businesses. They act as intermediaries between the importers or exporters and the government agencies responsible for customs regulations and procedures.

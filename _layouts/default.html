@@ -69,13 +69,6 @@
             <a class="page-link" href="/packaging/">Packaging</a>
             <a class="page-link" href="/terms/">Glossery</a>
             <a class="page-link" href="/tracking/">Tracking</a>
-            <!-- Add this HTML structure before the closing </body> tag -->
-            <div class="popover-container" id="popover-container">
-              <div class="popover-content">
-                <!-- Content of the popover goes here -->
-                <p>Popover Content</p>
-              </div>
-            </div>
           </div>
         </nav>
       </div>
@@ -132,28 +125,5 @@
         </div>
       </div>
     </footer>
-    <!-- Modify your existing script or add this script just before the closing </body> tag -->
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        var trigger = document.querySelector(".trigger");
-        var popoverContainer = document.getElementById("popover-container");
-        var links = document.querySelectorAll(".page-link");
-
-        // Toggle popover on trigger click
-        trigger.addEventListener("click", function () {
-          popoverContainer.classList.toggle("show-popover");
-        });
-
-        // Handle link clicks
-        links.forEach(function (link) {
-          link.addEventListener("click", function (event) {
-            event.preventDefault();
-            popoverContainer.classList.remove("show-popover");
-            // Add your logic to handle the click on the link
-            console.log("Link clicked:", link.href);
-          });
-        });
-      });
-    </script>
   </body>
 </html>

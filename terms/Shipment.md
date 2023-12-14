@@ -1,10 +1,12 @@
-# Terms
-
-## Shipment
-
-**From ChatGPT**
-
-https://chat.openai.com/share/4e15ae58-c374-4cce-8a82-cdd4e3fe058b
+---
+title: Glossery
+subtitle: Shipments
+chatgpt_link: https://chat.openai.com/share/4e15ae58-c374-4cce-8a82-cdd4e3fe058b
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/shipments/
+---
 
 A freight load, also known as a shipment, refers to a collection of goods or products that are transported together from one location to another. It can include various items such as raw materials, finished products, equipment, or any other type of merchandise that needs to be transported. The shipment is typically packaged or secured in a way that allows for efficient handling and transportation, often using containers, pallets, or other suitable packaging methods.
 

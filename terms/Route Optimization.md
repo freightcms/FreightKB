@@ -1,10 +1,12 @@
-# Terms
-
-## Route Optimization
-
-**From ChatGPT**
-
-https://chat.openai.com/share/b2a44700-337b-458c-a5c3-4cdda6d2c636
+---
+title: Glossery
+subtitle: Route Optimization
+chatgpt_link: https://chat.openai.com/share/b2a44700-337b-458c-a5c3-4cdda6d2c636
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/route-optimization/
+---
 
 Route optimization, also known as vehicle routing optimization or fleet routing optimization, is the process of determining the most efficient and cost-effective routes for vehicles to travel between multiple destinations. It involves finding the optimal sequence of stops or waypoints for a set of vehicles to minimize total travel time, distance, fuel consumption, or other relevant factors.
 

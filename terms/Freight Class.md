@@ -1,10 +1,12 @@
-# Terms
-
-## Freight Class
-
-**From ChatGPT**
-
-https://chat.openai.com/share/cbfbbf96-986f-4aab-9ba7-f11b5f9e3de8
+---
+title: Glossery
+subtitle: Freight Class
+chatgpt_link: https://chat.openai.com/share/cbfbbf96-986f-4aab-9ba7-f11b5f9e3de8
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/freight-class/
+---
 
 Freight classes, also known as NMFC (National Motor Freight Classification) codes, are a standardized system used in the shipping and transportation industry to categorize and classify different types of freight based on their characteristics. These classes are primarily used for less-than-truckload (LTL) shipments, where multiple shipments from different customers are consolidated onto a single truck.
 

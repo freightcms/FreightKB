@@ -1,10 +1,12 @@
-# Terms
-
-## IncoTerms
-
-**From ChatGPT**
-
-https://chat.openai.com/share/e1b42065-a8fc-4295-8eda-c80e5e50b9e5
+---
+title: Glossery
+subtitle: Inco Terms
+chatgpt_link: https://chat.openai.com/share/e1b42065-a8fc-4295-8eda-c80e5e50b9e5
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/inco-terms/
+---
 
 INCO Terms, which stands for International Commercial Terms, are a standardized set of rules used in international trade to define the rights and obligations of the buyer and seller regarding the delivery of goods. These terms were established by the International Chamber of Commerce (ICC) and are widely recognized and used in commercial contracts worldwide.
 

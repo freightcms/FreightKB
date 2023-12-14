@@ -1,10 +1,12 @@
-# Terms
-
-## Load Optimization
-
-**From ChatGPT**
-
-https://chat.openai.com/share/cef7dffc-1302-4221-a097-42801e8fd3aa
+---
+title: Glossery
+subtitle: Load Optimization
+chatgpt_link: https://chat.openai.com/share/cef7dffc-1302-4221-a097-42801e8fd3aa
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/load-optimization/
+---
 
 Load optimization refers to the process of maximizing the efficiency and effectiveness of loading operations in various industries, such as transportation, logistics, and supply chain management. It involves determining the most optimal way to distribute and arrange items, goods, or cargo within a given space, such as a truck, container, or warehouse, in order to utilize the available capacity and resources to their fullest potential.
 

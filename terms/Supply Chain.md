@@ -1,10 +1,13 @@
-# Terms
+---
+title: Glossery
+subtitle: Supply Chain
+chatgpt_link: https://chat.openai.com/share/23b9c41c-cde9-48a5-bff1-0bd4f55192ca
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/supply-chain/
+---
 
-## Supply Chain
-
-**From ChatGPT**
-
-https://chat.openai.com/share/23b9c41c-cde9-48a5-bff1-0bd4f55192ca
 
 A supply chain refers to the network of organizations, resources, activities, and processes involved in the creation, production, and distribution of goods or services from the point of origin to the point of consumption. It encompasses all the steps and entities involved in delivering a product or service to customers.
 

@@ -1,10 +1,12 @@
-# Terms
-
-## Consolidation
-
-**From ChatGPT**
-
-https://chat.openai.com/share/e4d6c218-d7bd-4e87-a4d2-98101b1243cb
+---
+title: Glossery
+subtitle: Consolidation
+chatgpt_link: https://chat.openai.com/share/e4d6c218-d7bd-4e87-a4d2-98101b1243cb
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/consolidation/
+---
 
 Freight consolidation is a logistics strategy that involves combining multiple smaller shipments into a single larger shipment. The goal of freight consolidation is to optimize transportation efficiency, reduce costs, and improve supply chain operations.
 

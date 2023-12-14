@@ -1,10 +1,12 @@
-# Terms
-
-## Stops
-
-**From ChatGPT**
-
-https://chat.openai.com/share/0e274de9-1fb8-440b-888c-eae48da8e731
+---
+title: Glossery
+subtitle: Shipment Stops
+chatgpt_link: https://chat.openai.com/share/0e274de9-1fb8-440b-888c-eae48da8e731
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/stops/
+---
 
 A freight stop refers to a designated location where freight or cargo is loaded, unloaded, or transferred between different modes of transportation, such as trucks, trains, ships, or airplanes. It can be a facility, depot, or terminal specifically designed for handling and managing the movement of goods.
 

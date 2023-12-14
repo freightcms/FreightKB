@@ -1,10 +1,14 @@
-# Terms
+---
+title: Glossery
+subtitle: Transporation Management System (TMS)
+chatgpt_link: https://chat.openai.com/share/3142bfae-e1d1-4633-8941-767c8f459317
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/tms/
+---
 
-## Transporation Management System (TMS)
 
-**From ChatGPT**
-
-https://chat.openai.com/share/3142bfae-e1d1-4633-8941-767c8f459317
 
 A Transportation Management System (TMS) is a software application or platform that helps businesses efficiently manage and optimize their transportation and logistics operations. It is commonly used by companies involved in shipping, supply chain management, and distribution to streamline the process of planning, executing, and tracking the movement of goods.
 

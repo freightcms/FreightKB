@@ -1,10 +1,12 @@
-# Terms
-
-## Purchase Orders
-
-**From ChatGPT**
-
-https://chat.openai.com/share/fa208886-03ef-4970-a9da-64c7496debd9
+---
+title: Glossery
+subtitle: Purchase Orders
+chatgpt_link: https://chat.openai.com/share/fa208886-03ef-4970-a9da-64c7496debd9
+author: Christopher Schoeder
+date: 2023-12-13
+layout: subarticle
+permalink: /terms/purchase-orders/
+---
 
 Freight purchase orders are documents used in the transportation and logistics industry to facilitate the procurement of freight services. A freight purchase order (PO) is a contractual agreement between a buyer and a transportation provider, outlining the specific details and terms of the transportation service to be provided.
 

@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Knowledge Base for FreightCMS (Cargo Management System)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kb.freightcms.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: freightcms
+github_username:  freightcms
 
 # Build settings
 theme: minima

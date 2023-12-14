@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/306b6457-4a7e-4206-96ac-05fa2e9bfd05
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /
+permalink: /carriers/
 ---
 
 A freight carrier, also known as a freight forwarder or shipping carrier, is a company or organization that specializes in the transportation of goods from one location to another. Freight carriers play a crucial role in the logistics industry by providing transportation services for various types of cargo, including raw materials, finished products, and other items.

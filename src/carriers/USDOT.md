@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/627c75a3-3f75-426b-a763-19fa15de2061
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /usdot
+permalink: /carriers/usdot/
 ---
 
 USDOT stands for the United States Department of Transportation. It is a federal executive department responsible for overseeing and regulating various aspects of transportation within the United States. The USDOT was established in 1966 and its primary goal is to ensure the efficiency, safety, and accessibility of the country's transportation systems.

@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/502f2b85-64fd-4819-b52e-64f4bd571d2e
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /compliance
+permalink: /carriers/compliance/
 ---
 
 Carrier compliance refers to the adherence of a transportation carrier, such as a trucking company or logistics provider, to various regulations, standards, and requirements imposed by governing bodies and industry associations. It encompasses a range of legal, safety, and operational considerations that carriers must meet in order to operate within the transportation industry.

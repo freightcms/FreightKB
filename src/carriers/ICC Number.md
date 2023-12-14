@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/1670dce9-4dc8-4489-8f74-082ae2653212
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /icc
+permalink: /carriers/icc/
 ---
 
 As of my knowledge cutoff in September 2021, there is no specific term or concept known as a "Freight ICC Number." However, there is some information that might help clarify the matter.

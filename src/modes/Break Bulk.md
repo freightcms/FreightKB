@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/f48ef16f-d2eb-4539-8446-2a814859e442
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: modes/bblk
+permalink: /modes/bblk/
 ---
 
 Break bulk freight refers to a type of cargo that is transported individually and not in containers or bulk quantities. It is typically characterized by being loaded and unloaded piece by piece or in smaller groups. Break bulk cargo can include a wide range of goods such as machinery, equipment, vehicles, timber, steel, project cargo, and other non-containerized items.

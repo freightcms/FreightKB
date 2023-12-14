@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/54e0d3d3-ee0a-43e6-9c67-502b8e72fe65
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: modes/roro
+permalink: /modes/roro/
 ---
 
 Roll-on/roll-off (RoRo) transportation refers to a method of shipping cargo or freight using vessels specifically designed to allow vehicles to be driven directly onto the ship and then driven off at the destination port. RoRo vessels are equipped with ramps or specialized platforms that facilitate the easy movement of wheeled cargo, such as cars, trucks, trailers, and heavy machinery.

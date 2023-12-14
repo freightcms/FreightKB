@@ -5,7 +5,7 @@ chatgpt_link: https://chat.openai.com/share/41ae79d8-936e-48c6-baa7-0f73c05117d0
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /scac
+permalink: /carriers/scac/
 ---
 
 SCAC stands for Standard Carrier Alpha Code. It is a unique two-to-four-letter code assigned by the National Motor Freight Traffic Association (NMFTA) to identify transportation companies in the United States. The SCAC code is used primarily in the transportation industry for various purposes, including shipment tracking, freight bill auditing, and identifying carriers involved in logistics and supply chain management.

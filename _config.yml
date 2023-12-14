@@ -28,8 +28,9 @@ twitter_username: freightcms
 github_username:  freightcms
 
 # Build settings
-theme: minima
+theme: just-the-docs
 layouts_dir: _layouts
+source: src
 defaults:
   -
     scope:

@@ -1,7 +1,7 @@
 ---
 title: About
 layout: article
-permalink: /about
+permalink: about
 author: Christopher Schoeder
 date: 2023-DEC-14
 nav_order: 2

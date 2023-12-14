@@ -5,7 +5,9 @@ layout: page
     <h2>{{ page.title }}</h2>
     <p><strong>Published:</strong> {{ page.date }}</p>
     <p><strong>Published by:</strong> {{ page.author }}</p>
-    <p><strong>Source:</strong> <a href="{{ page.chatgpt_link }}" rel="nofollow" target="_blank">ChatGPT Prompt</a></p>
+    {% if chatgpt_link %}
+        <p><strong>Source:</strong> <a href="{{ page.chatgpt_link }}" rel="nofollow" target="_blank">ChatGPT Prompt</a></p> 
+    {% endif %}
     <hr />
     {{ content }}
 </article>

@@ -1,11 +1,12 @@
 ---
-title: Locations
-subtitle: Formats
+title: Formats
 chatgpt_link: https://chat.openai.com/share/d301e419-afea-4c70-838e-ba1399c0440f
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
 permalink: /locations/formats
+parent: Locations
+has_children: false
 ---
 
 The standard format for a U.S. address typically includes the following components:
@@ -84,13 +85,13 @@ https://chat.openai.com/share/a081c62f-66f5-495e-80c4-2de0cc2521c1
 
 In India, the common address format typically includes the following components:
 
-1. Name: The recipient's full name or the name of the organization.
-2. House Number/Building Name: The number or name of the building where the recipient resides or the organization is located.
-3. Street/Road Name: The name of the street or road where the building is situated.
-4. Locality/Area: The specific locality or area within the city or town.
-5. City/Town/Village: The name of the city, town, or village.
-6. State: The name of the state where the city or town is located.
-7. PIN Code: The Postal Index Number (PIN) code, which is a 6-digit numerical code used for precise identification of a post office or delivery area.
+- Name: The recipient's full name or the name of the organization.
+- House Number/Building Name: The number or name of the building where the recipient resides or the organization is located.
+- Street/Road Name: The name of the street or road where the building is situated.
+- Locality/Area: The specific locality or area within the city or town.
+- City/Town/Village: The name of the city, town, or village.
+- State: The name of the state where the city or town is located.
+- PIN Code: The Postal Index Number (PIN) code, which is a 6-digit numerical code used for precise identification of a post office or delivery area.
 
 Here's an example of an address format in India:
 

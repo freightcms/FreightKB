@@ -61,7 +61,6 @@
           </label>
 
           <div class="trigger">
-            <a class="page-link" href="/about/">About</a>
             <a class="page-link" href="/analytics/">Analytics</a>
             <a class="page-link" href="/edi/">EDI</a>
             <a class="page-link" href="/documents/">Documents</a>
@@ -70,13 +69,19 @@
             <a class="page-link" href="/packaging/">Packaging</a>
             <a class="page-link" href="/terms/">Glossery</a>
             <a class="page-link" href="/tracking/">Tracking</a>
-        </div>
+            <!-- Add this HTML structure before the closing </body> tag -->
+            <div class="popover-container" id="popover-container">
+              <div class="popover-content">
+                <!-- Content of the popover goes here -->
+                <p>Popover Content</p>
+              </div>
+            </div>
+          </div>
         </nav>
       </div>
     </header>
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article>
+      <div class="wrapper"><article>
     <h2 class="page-heading">Parties</h2>
     <p><strong>Published: </strong>2023-DEC-13</p>
     <p><strong>Published by: </strong>Christopher Schoeder</p>
@@ -109,8 +114,7 @@
 
 <p>By utilizing the services of a customs broker, importers and exporters can navigate the complexities of international trade more effectively, ensuring compliance with customs regulations and minimizing delays and penalties associated with incorrect or incomplete documentation.</p>
 
-</article>
-      </div>
+</article></div>
     </main>
     <footer class="site-footer h-card">
       <data class="u-url" href="/"></data>
@@ -161,5 +165,28 @@
         </div>
       </div>
     </footer>
+    <!-- Modify your existing script or add this script just before the closing </body> tag -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var trigger = document.querySelector(".trigger");
+        var popoverContainer = document.getElementById("popover-container");
+        var links = document.querySelectorAll(".page-link");
+
+        // Toggle popover on trigger click
+        trigger.addEventListener("click", function () {
+          popoverContainer.classList.toggle("show-popover");
+        });
+
+        // Handle link clicks
+        links.forEach(function (link) {
+          link.addEventListener("click", function (event) {
+            event.preventDefault();
+            popoverContainer.classList.remove("show-popover");
+            // Add your logic to handle the click on the link
+            console.log("Link clicked:", link.href);
+          });
+        });
+      });
+    </script>
   </body>
 </html>

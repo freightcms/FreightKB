@@ -61,7 +61,6 @@
           </label>
 
           <div class="trigger">
-            <a class="page-link" href="/about/">About</a>
             <a class="page-link" href="/analytics/">Analytics</a>
             <a class="page-link" href="/edi/">EDI</a>
             <a class="page-link" href="/documents/">Documents</a>
@@ -70,13 +69,19 @@
             <a class="page-link" href="/packaging/">Packaging</a>
             <a class="page-link" href="/terms/">Glossery</a>
             <a class="page-link" href="/tracking/">Tracking</a>
-        </div>
+            <!-- Add this HTML structure before the closing </body> tag -->
+            <div class="popover-container" id="popover-container">
+              <div class="popover-content">
+                <!-- Content of the popover goes here -->
+                <p>Popover Content</p>
+              </div>
+            </div>
+          </div>
         </nav>
       </div>
     </header>
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home"><h1 id="frieghtkb">FrieghtKB</h1>
+      <div class="wrapper"><div class="home"><h1 id="frieghtkb">FrieghtKB</h1>
 
 <p>A knowledge base of all freight information from ChatGPT. None of the ideas or thoughts in any of this documention is my own but rather asked and copy/pasted from ChatGPT questions and responses. If any information is inaccurate please open an issue with a description of the incorrect information is/was.</p>
 
@@ -94,8 +99,7 @@
 
 <p>With the advancements in technology and the rise of e-commerce, freight logistics has become increasingly complex and demanding. Companies leverage sophisticated software systems, data analytics, and automation tools to streamline operations, improve efficiency, and enhance supply chain visibility. Effective freight logistics management is essential for businesses to meet customer expectations, maintain competitiveness, and ensure the smooth flow of goods across the supply chain.</p>
 </div>
-
-      </div>
+</div>
     </main>
     <footer class="site-footer h-card">
       <data class="u-url" href="/"></data>
@@ -146,5 +150,28 @@
         </div>
       </div>
     </footer>
+    <!-- Modify your existing script or add this script just before the closing </body> tag -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var trigger = document.querySelector(".trigger");
+        var popoverContainer = document.getElementById("popover-container");
+        var links = document.querySelectorAll(".page-link");
+
+        // Toggle popover on trigger click
+        trigger.addEventListener("click", function () {
+          popoverContainer.classList.toggle("show-popover");
+        });
+
+        // Handle link clicks
+        links.forEach(function (link) {
+          link.addEventListener("click", function (event) {
+            event.preventDefault();
+            popoverContainer.classList.remove("show-popover");
+            // Add your logic to handle the click on the link
+            console.log("Link clicked:", link.href);
+          });
+        });
+      });
+    </script>
   </body>
 </html>

@@ -3,7 +3,7 @@ title: Financials
 subtitle: 'Parcel Charges'
 chatgpt_link: 'https://chat.openai.com/share/a0827d00-ec95-4158-b1bf-943c7bd047de'
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: financials/parcel-charges
 ---

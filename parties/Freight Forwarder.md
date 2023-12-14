@@ -3,7 +3,7 @@ title: Parties
 subtitle: Freight Forwarder
 chatgpt_link: https://chat.openai.com/share/d3b64988-38a8-4ca1-b553-0b674235a0e1
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/freight-forwarder
 ---

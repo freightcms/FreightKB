@@ -2,7 +2,7 @@
 title: Tracking
 chatgpt_link: https://chat.openai.com/share/96d9a3a8-02ff-48af-b84b-756121268bb6
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: article
 permalink: tracking
 ---

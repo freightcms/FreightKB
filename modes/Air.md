@@ -3,7 +3,7 @@ title: Modes
 subtitle: Air
 chatgpt_link: https://chat.openai.com/share/be6d4aae-a129-4a6b-b7d8-55fb64cc074f
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: modes/air
 ---

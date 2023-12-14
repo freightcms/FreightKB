@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Shipment Stops
 chatgpt_link: https://chat.openai.com/share/0e274de9-1fb8-440b-888c-eae48da8e731
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/stops/
 ---

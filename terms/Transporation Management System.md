@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Transporation Management System (TMS)
 chatgpt_link: https://chat.openai.com/share/3142bfae-e1d1-4633-8941-767c8f459317
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/tms/
 ---

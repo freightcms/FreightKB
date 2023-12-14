@@ -2,7 +2,7 @@
 title: Modes
 chatgpt_link: https://chat.openai.com/share/ffab6b90-3db7-4f41-9ab2-f92c0b36a283
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: article
 permalink: modes
 ---

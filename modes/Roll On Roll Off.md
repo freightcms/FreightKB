@@ -3,7 +3,7 @@ title: Modes
 subtitle: Roll on Roll Off
 chatgpt_link: https://chat.openai.com/share/54e0d3d3-ee0a-43e6-9c67-502b8e72fe65
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: modes/roro
 ---

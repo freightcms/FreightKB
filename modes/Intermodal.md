@@ -3,7 +3,7 @@ title: Modes
 subtitle: Intermodal
 chatgpt_link: https://chat.openai.com/share/872836a8-f882-471f-a14b-f1f31b281af7
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: modes/intermodal
 ---

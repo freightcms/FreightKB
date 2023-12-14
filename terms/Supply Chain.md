@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Supply Chain
 chatgpt_link: https://chat.openai.com/share/23b9c41c-cde9-48a5-bff1-0bd4f55192ca
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/supply-chain/
 ---

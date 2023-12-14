@@ -3,7 +3,7 @@ title: Parties
 subtitle: Freight Broker
 chatgpt_link: https://chat.openai.com/share/92b2b470-15ad-4628-9228-c6bcc634afb6
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/brokers/freight
 ---

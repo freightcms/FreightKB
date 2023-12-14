@@ -3,7 +3,7 @@ title: Parties
 subtitle: Customs Broker
 chatgpt_link: https://chat.openai.com/share/118ac6e8-6bc7-4ec3-a58d-ef629c101d9f
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/brokers/customs
 ---

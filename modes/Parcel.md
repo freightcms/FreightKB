@@ -3,7 +3,7 @@ title: Modes
 subtitle: Parcel
 chatgpt_link: https://chat.openai.com/share/fe195bd5-af05-4f69-97b7-9bcee28f7c61
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: modes/parcel
 ---

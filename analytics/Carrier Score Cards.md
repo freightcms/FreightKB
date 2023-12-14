@@ -3,7 +3,7 @@ title: Analytics
 subtitle: Carrier Score Cards
 chatgpt_link: https://chat.openai.com/share/bf4136b4-3cd0-4720-8583-97144bfc9686
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: analytics/carrier-score-cards
 ---

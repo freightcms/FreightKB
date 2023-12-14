@@ -3,7 +3,7 @@ title: Parties
 subtitle: Shipper
 chatgpt_link: https://chat.openai.com/share/10076032-578c-481d-a229-ead17aacff7d
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/shipper
 ---

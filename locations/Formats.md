@@ -3,7 +3,7 @@ title: Locations
 subtitle: Formats
 chatgpt_link: https://chat.openai.com/share/d301e419-afea-4c70-838e-ba1399c0440f
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: locations/formats
 ---

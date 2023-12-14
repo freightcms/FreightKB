@@ -3,7 +3,7 @@ title: Customs
 subtitle: Rail
 chatgpt_link: https://chat.openai.com/share/b290c1c8-d2b1-47d9-ab74-6a1a21932f8f
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: documents/customs/rail
 ---

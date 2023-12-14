@@ -3,7 +3,7 @@ title: Locations
 subtitle: Terminal
 chatgpt_link: https://chat.openai.com/share/b433d3c8-9997-413e-9aeb-68b8f62e9c03
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: locations/terminals
 ---

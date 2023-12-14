@@ -3,7 +3,7 @@ title: Customs
 subtitle: Ocean
 chatgpt_link: https://chat.openai.com/share/bf50e135-02b6-48d9-ad5f-1e1d505b2b19
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: documents/customs/ocean
 ---

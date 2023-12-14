@@ -3,7 +3,7 @@ title: Parties
 subtitle: Third Party Logistics (4PL)
 chatgpt_link: https://chat.openai.com/share/bf3b1771-a7cf-4dc4-b5e2-a77c671af776
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/4pl
 ---

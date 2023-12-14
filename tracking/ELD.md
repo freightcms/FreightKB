@@ -3,7 +3,7 @@ title: Tracking
 subtitle: Electronic Logging Device (ELD)
 chatgpt_link: https://chat.openai.com/share/9d943d5b-a83c-438e-b8aa-077676a2693d
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: tracking/eld
 ---

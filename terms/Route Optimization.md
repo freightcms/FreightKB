@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Route Optimization
 chatgpt_link: https://chat.openai.com/share/b2a44700-337b-458c-a5c3-4cdda6d2c636
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/route-optimization/
 ---

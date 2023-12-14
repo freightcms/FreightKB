@@ -3,7 +3,7 @@ title: Modes
 subtitle: Load on Load off
 chatgpt_link: https://chat.openai.com/share/5061c334-fbda-44a0-a184-b2a76798a3bb
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: modes/lolo
 ---

@@ -2,7 +2,7 @@
 title: Analytics
 chatgpt_link: https://chat.openai.com/share/6eb9630b-c25a-43a7-81df-97d1e2c4bd20
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: article
 permalink: analytics
 ---

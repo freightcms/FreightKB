@@ -3,7 +3,7 @@ title: Customs
 subtitle: Air
 chatgpt_link: https://chat.openai.com/share/eb0f4b2a-d849-4037-bfce-a196310b9dbe
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: documents/customs/air
 ---

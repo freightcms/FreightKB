@@ -3,7 +3,7 @@ title: Packaging
 subtitle: Commodities
 chatgpt_link: https://chat.openai.com/share/57140803-d03f-41bb-b310-2ca29d341421
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: packaging/commodities
 ---

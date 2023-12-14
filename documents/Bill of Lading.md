@@ -3,7 +3,7 @@ title: Documents
 subtitle: Bill of Lading (BOL)
 chatgpt_link: https://chat.openai.com/share/3623f961-f8b7-41a7-9cf2-82c7ebd871ea
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: documents/financials/bol
 ---

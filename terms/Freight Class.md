@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Freight Class
 chatgpt_link: https://chat.openai.com/share/cbfbbf96-986f-4aab-9ba7-f11b5f9e3de8
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/freight-class/
 ---

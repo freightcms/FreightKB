@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Inco Terms
 chatgpt_link: https://chat.openai.com/share/e1b42065-a8fc-4295-8eda-c80e5e50b9e5
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/inco-terms/
 ---

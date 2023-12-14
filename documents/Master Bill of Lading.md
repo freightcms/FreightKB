@@ -3,7 +3,7 @@ title: Documents
 subtitle: Master Bill of Lading (MBOL)
 chatgpt_link: https://chat.openai.com/share/f67e70ca-0187-4251-8c71-80364711af4e
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: documents/financials/mbol
 ---

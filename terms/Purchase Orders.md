@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Purchase Orders
 chatgpt_link: https://chat.openai.com/share/fa208886-03ef-4970-a9da-64c7496debd9
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/purchase-orders/
 ---

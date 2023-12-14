@@ -3,7 +3,7 @@ title: Carriers
 subtitle: Motor Carrier Number (MC Number)
 chatgpt_link: https://chat.openai.com/share/60f20280-ae30-4b76-b146-258196be8b68
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: carriers/mc-number
 ---

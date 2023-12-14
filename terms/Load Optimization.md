@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Load Optimization
 chatgpt_link: https://chat.openai.com/share/cef7dffc-1302-4221-a097-42801e8fd3aa
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/load-optimization/
 ---

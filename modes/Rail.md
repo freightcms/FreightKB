@@ -3,7 +3,7 @@ title: Modes
 subtitle: Rail
 chatgpt_link: https://chat.openai.com/share/e6701a1a-532a-44a5-bd3d-3c09b78a6666
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: modes/rail
 ---

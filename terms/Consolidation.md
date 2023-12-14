@@ -3,7 +3,7 @@ title: Glossery
 subtitle: Consolidation
 chatgpt_link: https://chat.openai.com/share/e4d6c218-d7bd-4e87-a4d2-98101b1243cb
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: /terms/consolidation/
 ---

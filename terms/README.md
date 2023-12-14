@@ -1,7 +1,7 @@
 ---
 title: Glossery
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: article
 permalink: terms
 ---

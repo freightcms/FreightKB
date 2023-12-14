@@ -2,7 +2,7 @@
 title: Electronic Data Interchange (EDI)
 chatgpt_link: https://chat.openai.com/share/5827f2e9-addf-4f44-a773-70a2c5af8daa
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: article
 permalink: edi
 ---

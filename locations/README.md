@@ -2,7 +2,7 @@
 title: Locations
 chatgpt_link: https://chat.openai.com/share/58c25823-8373-4ce2-aa28-67a3f58f8dac
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: article
 permalink: locations
 ---

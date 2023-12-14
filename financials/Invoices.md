@@ -3,7 +3,7 @@ title: Financials
 subtitle: 'Invoices'
 chatgpt_link: https://chat.openai.com/share/78a8fa3d-4715-4960-8fb7-0c5154357447
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: financials/invoices
 ---

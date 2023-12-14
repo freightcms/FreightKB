@@ -3,7 +3,7 @@ title: Carriers
 subtitle: United States Department of Transportation (USDOT)
 chatgpt_link: https://chat.openai.com/share/627c75a3-3f75-426b-a763-19fa15de2061
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: carriers/usdot
 ---

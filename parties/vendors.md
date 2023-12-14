@@ -3,7 +3,7 @@ title: Parties
 subtitle: Vendors
 chatgpt_link: https://chat.openai.com/share/ef4fd204-c69a-4c4f-adf7-e245518a2f55
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/vendors
 ---

@@ -3,7 +3,7 @@ title: Parties
 subtitle: Carriers
 chatgpt_link: https://chat.openai.com/share/306b6457-4a7e-4206-96ac-05fa2e9bfd05
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/carriers
 ---

@@ -3,7 +3,7 @@ title: Parties
 subtitle: Brokers
 chatgpt_link: https://chat.openai.com/share/5fd6cefe-81fd-42b9-a642-3ead19fed82a
 author: Christopher Schoeder
-date: 2023-12-13
+date: 2023-DEC-13
 layout: subarticle
 permalink: parties/brokers
 ---

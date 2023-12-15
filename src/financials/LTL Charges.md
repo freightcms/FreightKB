@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/91ab77cb-6ea3-4c45-b43c-a7b12b2c9015
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /financials/ltl-charges
+permalink: /financials/ltl-charges/
 parent: Financials
 has_children: false
 ---

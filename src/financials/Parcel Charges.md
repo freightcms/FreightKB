@@ -4,7 +4,7 @@ chatgpt_link: 'https://chat.openai.com/share/a0827d00-ec95-4158-b1bf-943c7bd047d
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /financials/parcel-charges
+permalink: /financials/parcel-charges/
 parent: Financials
 has_children: false
 ---

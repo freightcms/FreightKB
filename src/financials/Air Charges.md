@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/fcdea0f6-7c23-4292-8a45-30e67257af7f
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /financials/air-charges
+permalink: /financials/air-charges/
 parent: Financials
 has_children: false
 ---

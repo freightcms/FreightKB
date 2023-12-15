@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/a59c3f53-2fef-4c04-8f03-79441991cb32
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: /financials/line-item-charges
+permalink: /financials/line-item-charges/
 parent: Financials
 has_children: false
 ---

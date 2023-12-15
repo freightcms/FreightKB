@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/8866819a-b03b-42f4-8a0d-650a5db093d9
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: financials/ocean-charges
+permalink: /financials/ocean-charges
 parent: Financials
 has_children: false
 ---

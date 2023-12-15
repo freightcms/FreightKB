@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/447efeaf-fed3-4476-980c-6d6cfadafc3d
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: financials/ftl-charges
+permalink: /financials/ftl-charges
 parent: Financials
 has_children: false
 ---

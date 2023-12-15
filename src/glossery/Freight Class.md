@@ -5,7 +5,7 @@ author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
 parent: Glossery
-permalink: glossery/freight-class
+permalink: /glossery/freight-class/
 ---
 
 **Freight Classes**, also known as <a href="https://nmfta.org/nmfc/" rel="nofollow" target="_blank">NMFC</a> (National Motor Freight Classification) codes, are a standardized system used in the shipping and transportation industry to categorize and classify different types of freight based on their characteristics. These classes are primarily used for less-than-truckload (LTL) shipments, where multiple <a href="/glossery/shipments">shipments</a> from different <a href="/parties/customers">customers</a> are consolidated onto a single truck.

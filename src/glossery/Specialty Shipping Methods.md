@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/c389809f-4daa-4aed-a7d9-1f7304f6c737
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: glossery/specialty-shipping-methods
+permalink: /glossery/specialty-shipping-methods/
 parent: Glossery
 has_children: false
 ---

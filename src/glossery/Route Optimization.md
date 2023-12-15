@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/b2a44700-337b-458c-a5c3-4cdda6d2c636
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: glossery/route-optimization
+permalink: /glossery/route-optimization/
 parent: Glossery
 has_children: false
 ---

@@ -5,7 +5,7 @@ author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
 parent: Glossery
-permalink: glossery/inco-terms
+permalink: /glossery/inco-terms/
 ---
 
 INCO Terms, which stands for International Commercial Terms, are a standardized set of rules used in international trade to define the rights and obligations of the buyer and seller regarding the delivery of goods. These terms were established by the International Chamber of Commerce (ICC) and are widely recognized and used in commercial contracts worldwide.

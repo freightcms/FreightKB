@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/5a338841-c06d-4d34-9488-0c612fab16ea
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: customs/trucking
+permalink: /customs/trucking/
 parent: Customs
 has_children: false
 ---

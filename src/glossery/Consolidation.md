@@ -5,7 +5,7 @@ author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
 parent: Glossery
-permalink: glossery/consolidation
+permalink: /glossery/consolidation/
 ---
 
 **Freight Consolidation** is a logistics strategy that involves combining multiple smaller <a href="shipments">shipments</a> into a single larger <a href="/glossery/shipments">shipment.</a> The goal of**Freight Consolidation** is to optimize transportation efficiency, reduce costs, and improve supply chain operations.

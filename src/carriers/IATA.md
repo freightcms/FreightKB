@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/65808a05-a3ea-482e-982d-854c4f4293b1
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: carriers/IATA
+permalink: /carriers/IATA/
 parent: Carriers
 has_children: false
 ---

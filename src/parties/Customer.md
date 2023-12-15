@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/share/675c5242-2428-4282-aa9a-49fe050b2156
 author: Christopher Schoeder
 date: 2023-DEC-13
 layout: subarticle
-permalink: parties/customers
+permalink: /parties/customers/
 parent: Parties
 has_children: false
 ---

@@ -4,7 +4,7 @@ chatgpt_link: https://chat.openai.com/c/da1bca44-c67c-4d12-8c74-e2983bca9963
 author: Christopher Schoeder
 date: 2024-JAN-15
 layout: subarticle
-permalink: /locations/**ports**/
+permalink: /locations/ports/
 parent: Locations
 has_children: false
 ---
